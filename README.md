@@ -9,7 +9,7 @@ DIFRA (Data Insights and Financial Reporting Automation) is a data-driven soluti
 DIFRA is composed of multiple components, each with its specific responsibility:
 
 1. **Data Lake (Storage):**
-   - Responsible for storing raw spending data in a structured manner.
+   - Responsible for storing raw spending data (could be from multiple sources).
    - Simulated as a local storage solution for the Proof of Concept (POC) phase.
    - Can be extended to cloud-based storage in Phase 2.
 
@@ -34,7 +34,7 @@ DIFRA is composed of multiple components, each with its specific responsibility:
 6. **Reporting and Visualization:**
    - Generates visual reports and insights from aggregated data.
    - Utilizes Python libraries for data visualization.
-   - For v1, I've used a plotly dash app rendition which runs at http://127.0.0.1:8050/
+   - For POC, I've used a plotly dash app rendition which runs at http://127.0.0.1:8050/
 
 7. **Notification Service:**
    - Sends automated notifications upon successful data processing or errors.
