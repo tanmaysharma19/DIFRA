@@ -42,7 +42,9 @@ DIFRA is composed of multiple components, each with its specific responsibility:
 
 **Getting Started:**
 
-Go to the root folder and run the main.py as `python main.py`.
+- In order to best get an overview of DIFRA start with DIFRA_presentation.pptx under the presentation folder.
+- Next, check out the eda folder to get an overview of how the thought process for DIFRA developed.
+- Finally, to check all the functionalities and systems in the POC, go to the root folder and run the main.py script using the command `python main.py`.
 
 **Dependencies:**
 
