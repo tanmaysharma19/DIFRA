@@ -33,7 +33,8 @@ DIFRA is composed of multiple components, each with its specific responsibility:
 
 6. **Reporting and Visualization:**
    - Generates visual reports and insights from aggregated data.
-   - Utilizes Python libraries or third-party BI tools for data visualization.
+   - Utilizes Python libraries for data visualization.
+   - For v1, I've used a plotly dash app rendition which runs at http://127.0.0.1:8050/
 
 7. **Notification Service:**
    - Sends automated notifications upon successful data processing or errors.
@@ -41,7 +42,7 @@ DIFRA is composed of multiple components, each with its specific responsibility:
 
 **Getting Started:**
 
-To run individual components of the project, navigate to the respective component folder and execute the `main.py` script. Make sure to configure settings in `config.py` as needed.
+Go to the root folder and run the main.py as `python main.py`.
 
 **Dependencies:**
 
