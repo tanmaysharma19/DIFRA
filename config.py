@@ -1,7 +1,7 @@
 # config.py
 
 # data lake storage directory (local or cloud in phase 2)
-DATA_LAKE_STORAGE_DIRECTORY = '/Users/tanmaysharma/Desktop/Final/DIFRA/DIFRA/data_lake_storage/data'
+DATA_LAKE_STORAGE_DIRECTORY = '/Users/tanmaysharma/Desktop/DIFRA/DIFRA/data_lake_storage/data'
 
 INPUT_FILE_PATH = DATA_LAKE_STORAGE_DIRECTORY + '/data.csv'
 
@@ -13,7 +13,7 @@ DATA_AGGREGATION_INTERVAL = '0 0 * * *'  # Daily schedule at midnight (Cron form
 
 # data repository settings (e.g., database connection details, cloud storage credentials, etc.)
 DATA_REPOSITORY_SETTINGS = {
-    'local_data_repository_path':'/Users/tanmaysharma/Desktop/Final/DIFRA/DIFRA/data_repository/data',
+    'local_data_repository_path':'/Users/tanmaysharma/Desktop/DIFRA/DIFRA/data_repository/data',
     'database_url': 'database_url',
     'cloud_storage_credentials': 'cloud_storage_credentials',
 }
