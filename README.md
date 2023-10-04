@@ -47,5 +47,4 @@ Go to the root folder and run the main.py as `python main.py`.
 **Dependencies:**
 
 - Python 3.x
-- Required Python libraries (specified in individual component READMEs)
-- External dependencies (e.g., Apache Airflow, cloud storage services) as needed in Phase 2.
+- Refer requirements.txt under eda folder for python libraries used
