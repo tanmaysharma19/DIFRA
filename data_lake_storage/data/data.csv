@@ -1,0 +1,712 @@
+ProductName,Seller,UsageType,Region,CostUSD
+GCP Fastly for GCP Marketplace,fastly-public-46a6,D27A-A4CF-6B01:Fastlypublic46a6,(not set),230604.04
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,64A1-DB8B-7CDA:41748,us-central1,64513.1197819999
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,64A1-DB8B-7CDA:41748,us-west4,62623.5502179999
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,009E-7D88-7AE8:41748,us-east4,53447.39834400002
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,009E-7D88-7AE8:41748,us-west2,50071.497941000016
+"GCP NetApp, Inc. Cloud Manager for Cloud Volumes ONTAP",netapp-cloudmanager,3DB9-5B25-7E2D:Netappcloudmanager,(not set),37235.4623781306
+"GCP NetApp, Inc. Cloud Manager for Cloud Volumes ONTAP",netapp-cloudmanager,0B7C-DFF0-FEB4:Netappcloudmanager,ha pair,34583.51082937767
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,009E-7D88-7AE8:41748,us-central1,24957.26662800001
+GCP Matillion ETL for BigQuery - Extra Large,matillion-etl-for-bq-public,D4E5-9C65-9856:Matillionetlforbqpublic,us-east1,19117.822320000003
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,1799-9615-FEB5:Fortigcpproject001,us-central1,15192.81059895217
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,64A1-DB8B-7CDA:41748,europe-west3,14447.402226477396
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,64A1-DB8B-7CDA:41748,europe-west4,14032.401878238692
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,9666-B734-2423:41748,us-west2,10250.077707000002
+GCP Elastic Cloud (managed Elasticsearch Service),Elasticsearch,C992-4EB3-EFC4:Elasticsearch,(not set),9549.2865
+"GCP NetApp, Inc. Cloud Manager for Cloud Volumes ONTAP",netapp-cloudmanager,06B6-369A-3B70:Netappcloudmanager,(not set),9541.58994336539
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,1799-9615-FEB5:Fortigcpproject001,southamerica-east1,7588.835295546418
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,E56A-940F-3700:41748,us-west4,6222.110758000001
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (Bundle2)","Palo Alto Networks, Inc.",AE77-ABC5-AE32:PaloAltoNetworksInc,europe-west3,6214.061517268444
+GCP Aiven Managed Database Services,Aiven,E2DA-909F-A694:Aiven,(not set),5000.219
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,1799-9615-FEB5:Fortigcpproject001,us-west1,4427.217358999998
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,1799-9615-FEB5:Fortigcpproject001,us-west2,4201.555310999999
+GCP Compute Engine,Canonical,69F1-E4DD-0213:Canonical,us-east1,3708.869874
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,BD3A-C098-07D4:Fortigcpproject001,us-central1,3191.452949620517
+GCP Compute Engine,RedHat,334B-A580-657C:RedHat,europe-west3,3182.197685999999
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (Bundle2)","Palo Alto Networks, Inc.",AE77-ABC5-AE32:PaloAltoNetworksInc,europe-west4,3107.0305112446777
+GCP Redis Labs Redis Enterprise Cloud,Redis Labs,E857-A714-E972:RedisLabs,(not set),3046.6800000000017
+GCP Redis Labs Redis Enterprise Cloud,Redis Labs,9D14-6C2F-245D:RedisLabs,(not set),2784.7919999999976
+GCP Redis Labs Redis Enterprise Cloud,Redis Labs,62A1-1A6A-F81A:RedisLabs,(not set),2685.8399999999992
+GCP Litmus Automation Inc Intelligent Manufacturing Connect,Litmus Automation Inc,9D33-A660-C950:LitmusAutomationInc,(not set),2610.984521999999
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,360C-99CB-EB21:Fortigcpproject001,us-central1,2380.7994720000006
+GCP Cognosys Inc. Visual Studio Enterprise 2019 on Windows Server 2016,Cognosys,18AD-3BBC-D305:Cognosys,australia-southeast1,2179.180278508103
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall Bundle 2",Palo Alto Networks,6C97-F838-70BB:PaloAltoNetworks,us-west4,1904.6394730000004
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall Bundle 2",Palo Alto Networks,6C97-F838-70BB:PaloAltoNetworks,us-east4,1904.4947590000002
+GCP Compute Engine,Canonical,39FC-D2F3-6981:Canonical,us-east1,1867.2416679999997
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,009E-7D88-7AE8:41748,us-west4,1841.399999999998
+GCP Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 5Gbps,Fortinet Inc.,A4C3-9442-6186:FortinetInc,us-west1,1552.2264239999997
+"GCP NGINX, Inc NGINX Plus Enterprise - RHEL 8","NGINX, Inc",15CD-827E-A8D3:NGINXInc,us-east4,1517.7590420000001
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,1799-9615-FEB5:Fortigcpproject001,asia-southeast1,1506.312256
+GCP JFrog Cloud Pro X,JFrog,3ACC-829C-EAC8:JFrog,(not set),1361.25
+GCP Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 1Gbps,Fortinet Inc.,A015-0A74-1251:FortinetInc,us-west1,1351.174786
+GCP StreamSets Inc StreamSets Data Collector,StreamSets Inc,75A7-3A39-5787:StreamSetsInc,southamerica-east1,1267.6032297576296
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,009E-7D88-7AE8:41748,europe-west3,1227.6000000000006
+GCP Compute Engine,Canonical,69F1-E4DD-0213:Canonical,northamerica-northeast1,1222.0752980000004
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,1799-9615-FEB5:Fortigcpproject001,asia-southeast2,1191.301834
+"GCP RStudio, PBC RStudio Server Pro Standard for GCP","RStudio, Inc.",45B6-A6C1-39C2:RStudioInc,australia-southeast1,1182.959682
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,360C-99CB-EB21:Fortigcpproject001,us-west2,1163.874705
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,E56A-940F-3700:41748,europe-west4,1053.386323
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (Bundle2)","Palo Alto Networks, Inc.",AE77-ABC5-AE32:PaloAltoNetworksInc,us-central1,1046.2221490000002
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (Bundle2)","Palo Alto Networks, Inc.",AE77-ABC5-AE32:PaloAltoNetworksInc,us-west4,1036.446641
+"GCP NGINX, Inc NGINX Plus Enterprise - RHEL 8","NGINX, Inc",15CD-827E-A8D3:NGINXInc,us-west2,1011.8394850000003
+GCP Maidenhead Bridge Limited csc-gre-1g-gloud,Maidenhead Bridge Limited,7B46-B41D-D374:MaidenheadBridgeLimited,europe-west2,1009.8561276454179
+GCP Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 10Gbps,Fortinet Inc.,A808-EE38-9D59:FortinetInc,europe-west3,1001.4390229999997
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall Bundle 2",Palo Alto Networks,6C97-F838-70BB:PaloAltoNetworks,us-east1,952.3195790000002
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,51EF-10DE-2429:Fortigcpproject001,us-central1,929.3430475199084
+GCP Redis Labs Redis Enterprise Cloud,Redis Labs,927F-346C-7CD9:RedisLabs,(not set),886.5399999999997
+GCP Compute Engine,Canonical,48A8-08F0-0B4A:Canonical,us-east1,845.4723369999998
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,2B07-BB4E-16DD:41748,us-central1,825.8397820000004
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,2B07-BB4E-16DD:41748,us-east4,819.1998000000002
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,360C-99CB-EB21:Fortigcpproject001,us-east4,817.7912740000003
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,360C-99CB-EB21:Fortigcpproject001,us-east1,817.4059410000002
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,1799-9615-FEB5:Fortigcpproject001,us-east5,758.879682
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,1799-9615-FEB5:Fortigcpproject001,europe-north1,758.8796819999999
+GCP Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 1Gbps,Fortinet Inc.,A015-0A74-1251:FortinetInc,us-west4,743.9995790000002
+GCP Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 5Gbps,Fortinet Inc.,A4C3-9442-6186:FortinetInc,australia-southeast2,737.9019679999999
+GCP Maidenhead Bridge Limited csc-gre-1g-gloud,Maidenhead Bridge Limited,7B46-B41D-D374:MaidenheadBridgeLimited,us-east4,673.236571384702
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,BD3A-C098-07D4:Fortigcpproject001,us-west1,654.7195800000002
+GCP Compute Engine,Canonical,E783-3E2A-23DB:Canonical,us-east1,641.545815
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,1799-9615-FEB5:Fortigcpproject001,asia-south1,633.974515
+GCP CIS (Center for Internet Security) CIS Red Hat Enterprise Linux 8 Benchmark - Level 1,CIS (Center for Internet Security),B212-EB4C-74CB:CIS(CenterforInternetSecurity),us-central1,619.2119039999999
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,64A1-DB8B-7CDA:41748,us-east4,613.8
+GCP Qumulo 5TB Hybrid Qumulo File System Instance,qumulo-public,F9ED-6568-E6E2:Qumulopublic,us-east4,592.2233879999999
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,E56A-940F-3700:41748,europe-west2,558.248629
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,51EF-10DE-2429:Fortigcpproject001,europe-north1,535.6800000000001
+GCP Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 1Gbps,Fortinet Inc.,A015-0A74-1251:FortinetInc,australia-southeast2,527.0730229999999
+GCP Compute Engine,Canonical,69F1-E4DD-0213:Canonical,europe-west2,525.435932
+GCP JFrog Cloud Pro X,JFrog,6429-EB0B-E705:JFrog,(not set),498.9978239999997
+GCP Compute Engine,RedHat,0E03-6D90-51FE:RedHat,europe-west3,474.27295400000014
+GCP Compute Engine,Canonical,39FC-D2F3-6981:Canonical,northamerica-northeast1,465.7951489999999
+GCP Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 500Mbps,Fortinet Inc.,557B-515C-1A75:FortinetInc,us-west1,446.3058490000001
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,2B07-BB4E-16DD:41748,europe-west4,409.2005370000001
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,2B07-BB4E-16DD:41748,us-west4,409.20000000000016
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,2B07-BB4E-16DD:41748,europe-west3,409.2000000000001
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,64A1-DB8B-7CDA:41748,australia-southeast1,399.51603277827144
+GCP CIS (Center for Internet Security) CIS Red Hat Enterprise Linux 8 Benchmark - Level 1,CIS (Center for Internet Security),B212-EB4C-74CB:CIS(CenterforInternetSecurity),us-west1,386.914332
+GCP Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 500Mbps,Fortinet Inc.,557B-515C-1A75:FortinetInc,asia-east1,332.18543100000005
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (Bundle2)","Palo Alto Networks, Inc.",AE77-ABC5-AE32:PaloAltoNetworksInc,us-west1,331.62619800000004
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (Bundle2)","Palo Alto Networks, Inc.",AE77-ABC5-AE32:PaloAltoNetworksInc,us-east1,330.8150580000001
+GCP Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 10Gbps,Fortinet Inc.,A808-EE38-9D59:FortinetInc,us-west1,328.913659
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,9666-B734-2423:41748,us-east4,321.16779500000007
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,009E-7D88-7AE8:41748,europe-west4,306.90040299999987
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,009E-7D88-7AE8:41748,europe-west2,304.50777055556966
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,009E-7D88-7AE8:41748,australia-southeast1,299.63714535481245
+GCP Compute Engine,Canonical,BE05-E56C-40DB:Canonical,us-east1,271.93467999999996
+GCP Compute Engine,Canonical,E783-3E2A-23DB:Canonical,europe-west2,270.7439769999999
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,51EF-10DE-2429:Fortigcpproject001,europe-west1,267.85570000000007
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,51EF-10DE-2429:Fortigcpproject001,us-east1,267.83660000000003
+GCP CIS (Center for Internet Security) CIS CentOS Linux 7 Benchmark v2.2.1 Level 1,Center for Internet Security,9579-D315-1B22:CenterforInternetSecurity,us-east1,256.9606299999999
+"GCP F5 Networks F5 BIG-IP Virtual Edition - GOOD  (PAYG, 25Mbps)",F5 Networks,C319-1364-89D4:F5Networks,europe-west1,243.77538684227437
+GCP Compute Engine,Canonical,E783-3E2A-23DB:Canonical,northamerica-northeast1,240.34908500000003
+GCP CIS (Center for Internet Security) CIS Microsoft Windows Server 2019 Benchmark - Level 1,CIS (Center for Internet Security),9568-5E4D-E61A:CIS(CenterforInternetSecurity),us-east4,238.07684799999998
+GCP CIS (Center for Internet Security) CIS Red Hat Enterprise Linux 7 Benchmark - Level 2,CIS (Center for Internet Security),FFE5-F5BD-EC93:CIS(CenterforInternetSecurity),australia-southeast1,236.40758519690613
+GCP Compute Engine,Canonical,39FC-D2F3-6981:Canonical,europe-west2,222.85860799999995
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (Bundle1)","Palo Alto Networks, Inc.",5CC6-47E9-878D:PaloAltoNetworksInc,us-west1,210.61626499999997
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,64A1-DB8B-7CDA:41748,us-west2,204.60000000000008
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,64A1-DB8B-7CDA:41748,europe-west2,204.60000000000002
+GCP Compute Engine,Canonical,E803-054E-3FDF:Canonical,us-east1,201.73321299999995
+GCP CIS (Center for Internet Security) CIS Microsoft Windows Server 2019 Benchmark - Level 1,CIS (Center for Internet Security),9568-5E4D-E61A:CIS(CenterforInternetSecurity),northamerica-northeast1,178.55788399999997
+GCP CIS (Center for Internet Security) CIS Ubuntu Linux 18.04 LTS Benchmark - Level 1,CIS (Center for Internet Security),0732-9E69-CF0C:CIS(CenterforInternetSecurity),us-central1,155.176559
+GCP Compute Engine,Canonical,48A8-08F0-0B4A:Canonical,us-west1,149.449021
+GCP Cloud Infrastructure Services Terraform on Ubuntu 18.04 LTS,Cloud Infrastructure Services,BC8E-4704-2B23:CloudInfrastructureServices,us-east4,148.797395
+GCP Compute Engine,Canonical,E783-3E2A-23DB:Canonical,australia-southeast1,142.663149
+GCP Compute Engine,Canonical,69F1-E4DD-0213:Canonical,australia-southeast1,137.95886500000003
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,1799-9615-FEB5:Fortigcpproject001,asia-south2,135.43554199999997
+GCP CIS (Center for Internet Security) CIS NGINX on CentOS Linux 7 Benchmark - Level 1 - Webserver,CIS (Center for Internet Security),F138-E967-A327:CIS(CenterforInternetSecurity),us-east1,133.918399
+GCP CIS (Center for Internet Security) CIS Ubuntu Linux 20.04 LTS Benchmark - Level 1,CIS (Center for Internet Security),0DC2-7EDF-E7E0:CIS(CenterforInternetSecurity),us-central1,132.64113600000002
+GCP Compute Engine,Canonical,BE05-E56C-40DB:Canonical,us-west1,124.15094799999997
+GCP CIS (Center for Internet Security) CIS NGINX on CentOS Linux 7 Benchmark - Level 1 - Webserver,CIS (Center for Internet Security),F138-E967-A327:CIS(CenterforInternetSecurity),us-east4,119.7537
+GCP Compute Engine,Canonical,39FC-D2F3-6981:Canonical,us-west1,118.11838700000004
+GCP Compute Engine,Canonical,E783-3E2A-23DB:Canonical,us-west1,112.661502
+GCP Cognosys Inc. Secured SQL Server 2017 Standard on Windows Server 2016,Cognosys,F09A-434E-150C:Cognosys,asia-southeast1,111.59968199999996
+GCP Cloud Infrastructure Services Proxy Cache Server using Squid,Cloud Infrastructure Services,800B-249C-EA25:CloudInfrastructureServices,northamerica-northeast1,111.59874000000003
+GCP CIS (Center for Internet Security) CIS Debian Linux 10 Benchmark - Level 1,CIS (Center for Internet Security),B8F6-14B8-E9C3:CIS(CenterforInternetSecurity),us-west2,104.15797500000002
+GCP Techlatest.net Metabase Data Visualization & BI Platform,Techlatest.net,F415-AB1A-0B14:Techlatestnet,europe-north1,96.26618929941492
+GCP Aiven Managed Database Services,Aiven,8881-4DE9-7246:Aiven,(not set),91.512
+GCP CIS (Center for Internet Security) CIS Microsoft Windows Server 2019 Benchmark - Level 2,CIS (Center for Internet Security),BC6C-DFB8-6BDA:CIS(CenterforInternetSecurity),europe-west1,89.86555100000001
+GCP Compute Engine,Canonical,48A8-08F0-0B4A:Canonical,northamerica-northeast1,88.88092599999999
+GCP Compute Engine,Canonical,48A8-08F0-0B4A:Canonical,europe-west2,88.85954199999998
+GCP Compute Engine,Canonical,39FC-D2F3-6981:Canonical,australia-southeast1,81.130256
+GCP Filemage LLC FileMage SFTP/FTP Gateway,Filemage LLC,CD43-A79A-3E1F:FilemageLLC,europe-west3,74.48848993689285
+GCP Cognosys Inc. Secured SQL Server 2017 Standard on Windows Server 2016,Cognosys,9431-4E3F-0D18:Cognosys,asia-southeast1,74.399579
+"GCP F5 Networks F5 BIG-IP Virtual Edition - GOOD  (PAYG, 25Mbps)",F5 Networks,C319-1364-89D4:F5Networks,northamerica-northeast2,68.62628400000003
+GCP Filemage LLC FileMage SFTP/FTP Gateway,Filemage LLC,CD43-A79A-3E1F:FilemageLLC,europe-west2,65.0188955
+GCP Compute Engine,Canonical,48A8-08F0-0B4A:Canonical,australia-southeast1,62.88066
+GCP Compute Engine,Canonical,E783-3E2A-23DB:Canonical,northamerica-northeast2,62.452213000000015
+GCP Compute Engine,Canonical,E783-3E2A-23DB:Canonical,europe-west3,60.260505
+GCP Compute Engine,Canonical,AE9F-122E-5B38:Canonical,us-east1,55.677730999999994
+GCP Compute Engine,Canonical,69F1-E4DD-0213:Canonical,asia-south1,53.80037200000002
+GCP CIS (Center for Internet Security) CIS Red Hat Enterprise Linux 8 Benchmark - Level 1,CIS (Center for Internet Security),B212-EB4C-74CB:CIS(CenterforInternetSecurity),us-east4,49.521252000000004
+"GCP F5 Networks F5 BIG-IP Virtual Edition - BETTER  (PAYG, 5Gbps)",F5 Networks,4450-7158-E202:F5Networks,northamerica-northeast2,48.450404
+GCP Compute Engine,Canonical,48A8-08F0-0B4A:Canonical,europe-west3,44.44291100000001
+GCP Compute Engine,Canonical,48A8-08F0-0B4A:Canonical,northamerica-northeast2,44.44174299999999
+GCP Cloud Infrastructure Services Ansible Control Node Server on CentOS Server 8.4,Cloud Infrastructure Services,C280-0297-B57D:CloudInfrastructureServices,us-central1,37.19958
+GCP Cloud Infrastructure Services Terraform on Ubuntu 18.04 LTS,Cloud Infrastructure Services,BC8E-4704-2B23:CloudInfrastructureServices,us-east1,37.027224243358226
+GCP CIS (Center for Internet Security) CIS Microsoft Windows Server 2019 Benchmark - Level 1,CIS (Center for Internet Security),9568-5E4D-E61A:CIS(CenterforInternetSecurity),asia-southeast1,29.756875000000008
+GCP Compute Engine,Canonical,E803-054E-3FDF:Canonical,northamerica-northeast1,27.56574999999999
+GCP Cloud Infrastructure Services Mail Proxy Server using NGINX on Ubuntu,Cloud Infrastructure Services,813B-0852-1093:CloudInfrastructureServices,europe-west3,26.65944488169475
+GCP Compute Engine,Canonical,3CCE-91C7-ABF9:Canonical,us-central1,25.810094
+GCP Cloud Infrastructure Services GitLab Server (CE) Community Edition on Ubuntu Server 20.04,Cloud Infrastructure Services,47B7-FC90-E881:CloudInfrastructureServices,europe-west1,22.319682000000004
+GCP Compute Engine,Canonical,39FC-D2F3-6981:Canonical,asia-south1,18.378390999999997
+GCP CIS (Center for Internet Security) CIS Microsoft Windows Server 2016 Benchmark - Level 2,CIS (Center for Internet Security),F78F-D4B0-B782:CIS(CenterforInternetSecurity),us-central1,14.879579000000001
+GCP CIS (Center for Internet Security) CIS Ubuntu Linux 20.04 LTS STIG Benchmark,CIS (Center for Internet Security),75D1-5A16-BB0C:CIS(CenterforInternetSecurity),us-east4,14.879579000000001
+GCP CIS (Center for Internet Security) CIS CentOS Linux 7 Benchmark v2.2.1 Level 1,Center for Internet Security,9579-D315-1B22:CenterforInternetSecurity,us-central1,14.879579
+GCP CIS (Center for Internet Security) CIS Debian Linux 10 Benchmark - Level 1,CIS (Center for Internet Security),B8F6-14B8-E9C3:CIS(CenterforInternetSecurity),us-east4,14.879579
+GCP CIS (Center for Internet Security) CIS Microsoft Windows Server 2012 R2 Benchmark - Level 2,CIS Center for Internet Security,F804-438C-881C:CISCenterforInternetSecurity,us-central1,14.879578999999998
+GCP CIS (Center for Internet Security) CIS Debian Linux 10 Benchmark - Level 1,CIS (Center for Internet Security),B8F6-14B8-E9C3:CIS(CenterforInternetSecurity),us-central1,14.874622999999998
+GCP Compute Engine,Canonical,E803-054E-3FDF:Canonical,australia-southeast1,14.484562999999998
+GCP Compute Engine,Canonical,39FC-D2F3-6981:Canonical,europe-west3,12.722319999999998
+GCP Compute Engine,Canonical,3A97-0B24-C6A3:Canonical,us-central1,12.339022999999996
+GCP Compute Engine,Canonical,39FC-D2F3-6981:Canonical,northamerica-northeast2,12.014980000000001
+GCP Compute Engine,Canonical,69F1-E4DD-0213:Canonical,us-west1,11.181298000000002
+GCP Techlatest.net Ansible AWX (Opensource alternative to Ansible Tower),Techlatest.net,C402-FA58-40F1:Techlatestnet,europe-west4,9.673045
+GCP Compute Engine,Canonical,69F1-E4DD-0213:Canonical,us-east4,8.857108000000002
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,E56A-940F-3700:41748,us-central1,8.464837
+GCP Compute Engine,Canonical,E803-054E-3FDF:Canonical,us-west1,8.423652999999998
+GCP Compute Engine,Canonical,E803-054E-3FDF:Canonical,europe-west2,8.248187999999997
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,1799-9615-FEB5:Fortigcpproject001,asia-northeast1,8.146114
+GCP Compute Engine,Canonical,681A-CE73-4E13:Canonical,asia-east1,7.417203000000002
+GCP Compute Engine,Canonical,4C14-20CD-4C5D:Canonical,us-west1,7.4172030000000015
+GCP Compute Engine,Canonical,48A8-08F0-0B4A:Canonical,us-east4,7.409341
+GCP Compute Engine,Canonical,DC45-E5BB-8CDD:Canonical,us-central1,7.227530999999999
+GCP Compute Engine,Canonical,BCF2-FB67-327C:Canonical,europe-west2,6.6467932812049515
+GCP Compute Engine,Canonical,39FC-D2F3-6981:Canonical,us-east4,6.213000999999999
+GCP Compute Engine,Canonical,AE9F-122E-5B38:Canonical,northamerica-northeast1,6.147669000000001
+"GCP F5 Networks F5 BIG-IP Virtual Edition - GOOD  (PAYG, 25Mbps)",F5 Networks,C319-1364-89D4:F5Networks,us-east4,5.667007
+GCP Compute Engine,Canonical,5245-3320-9740:Canonical,us-central1,5.457590000000001
+GCP CIS (Center for Internet Security) CIS Microsoft Windows Server 2019 Benchmark - Level 1,CIS (Center for Internet Security),9568-5E4D-E61A:CIS(CenterforInternetSecurity),us-central1,4.968318999999999
+GCP Compute Engine,Canonical,F367-1125-F0DA:Canonical,europe-west2,4.6259950000000005
+GCP Compute Engine,Canonical,BCF2-FB67-327C:Canonical,us-east4,4.419892000000001
+GCP Compute Engine,Canonical,5245-3320-9740:Canonical,us-west1,4.155921000000001
+GCP Compute Engine,Canonical,DC45-E5BB-8CDD:Canonical,australia-southeast1,4.1250029999999995
+GCP Compute Engine,Canonical,E803-054E-3FDF:Canonical,europe-west3,4.121536999999999
+GCP Techlatest.net ethereum-fullnode,Techlatest.net,5168-F128-53D0:Techlatestnet,europe-west4,3.8352829999999996
+GCP Compute Engine,Canonical,39C0-FE5F-B504:Canonical,us-central1,3.7851169999999996
+GCP Compute Engine,Canonical,AE9F-122E-5B38:Canonical,us-west1,3.705917000000001
+GCP Compute Engine,Canonical,F367-1125-F0DA:Canonical,us-west1,3.7040620000000004
+GCP Compute Engine,Canonical,8561-E0AA-AA8E:Canonical,asia-east1,3.0231389999999987
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,51EF-10DE-2429:Fortigcpproject001,asia-northeast1,2.9260999999999995
+GCP Compute Engine,Canonical,68F2-13D3-1384:Canonical,europe-west2,2.561617
+GCP Compute Engine,Canonical,F367-1125-F0DA:Canonical,europe-west1,2.469472
+GCP Compute Engine,Canonical,AE9F-122E-5B38:Canonical,europe-west2,2.468676000000001
+GCP Compute Engine,Canonical,AE9F-122E-5B38:Canonical,australia-southeast1,2.3392840000000006
+"GCP F5 Networks F5 BIG-IP Virtual Edition - GOOD  (PAYG, 25Mbps)",F5 Networks,C319-1364-89D4:F5Networks,us-west1,2.3137550000000005
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,51EF-10DE-2429:Fortigcpproject001,asia-south2,2.2640000000000002
+GCP Techlatest.net Bitcoin Full Node,Techlatest.net,C30B-60D9-6200:Techlatestnet,europe-west4,2.235049
+GCP Compute Engine,Canonical,BCF2-FB67-327C:Canonical,us-west1,2.2101010000000003
+GCP Compute Engine,Canonical,BCF2-FB67-327C:Canonical,us-east1,2.209946000000001
+GCP Compute Engine,Canonical,1BD9-418B-0317:Canonical,us-east1,2.2099460000000004
+"GCP Neo4j, Inc. Neo4j AuraDB Professional","Neo4j, Inc.",9482-2ABF-9FFA:NeojInc,(not set),2
+GCP Techlatest.net Metabase Data Visualization & BI Platform,Techlatest.net,F415-AB1A-0B14:Techlatestnet,europe-west4,1.8818129999999997
+GCP Compute Engine,Canonical,39C0-FE5F-B504:Canonical,australia-southeast1,1.5113309999999998
+GCP Compute Engine,Canonical,2BEE-88DC-F577:Canonical,us-east4,1.510856
+GCP Compute Engine,Canonical,2BEE-88DC-F577:Canonical,europe-west2,1.4690504648475997
+GCP Compute Engine,Canonical,5245-3320-9740:Canonical,europe-west2,1.414405
+GCP Compute Engine,Canonical,AE9F-122E-5B38:Canonical,us-central1,1.3079779999999999
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,76D5-EC82-A818:41748,us-east4,1.2489579999999998
+GCP Compute Engine,Canonical,AE9F-122E-5B38:Canonical,us-east4,1.2333870000000002
+GCP Compute Engine,Canonical,69F1-E4DD-0213:Canonical,us-central1,1.233342
+GCP Compute Engine,Canonical,69F1-E4DD-0213:Canonical,northamerica-northeast2,1.1884970000000001
+GCP Compute Engine,Canonical,BA9C-7BA2-EA33:Canonical,europe-west2,1.170976
+GCP Compute Engine,Canonical,39FC-D2F3-6981:Canonical,us-central1,0.820135
+GCP Compute Engine,Canonical,8561-E0AA-AA8E:Canonical,europe-west2,0.7836839999999998
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,1799-9615-FEB5:Fortigcpproject001,us-east4,0.7734989999999999
+GCP Compute Engine,Canonical,5245-3320-9740:Canonical,us-east1,0.7561699999999998
+GCP Compute Engine,Canonical,2BEE-88DC-F577:Canonical,us-west1,0.755481
+GCP Compute Engine,Canonical,2BEE-88DC-F577:Canonical,us-east1,0.755428
+GCP Compute Engine,Canonical,5245-3320-9740:Canonical,europe-west1,0.7553049999999997
+GCP Arrikto MiniKF,Arrikto Inc.,1ADF-16A0-B057:ArriktoInc,us-east1,0.7488819999999999
+GCP Compute Engine,Canonical,39C0-FE5F-B504:Canonical,europe-west2,0.540432
+GCP Techlatest.net Cloud IDE for Python using Jupyter & Visual Studio Code,Techlatest.net,ED03-FAF5-363E:Techlatestnet,us-east4,0.399552
+GCP Cognosys Inc. Apache Web Server with Ubuntu 20.04 LTS,Cognosys Inc.,F9BF-8FA7-7D61:CognosysInc,asia-northeast3,0.38295
+GCP Compute Engine,Canonical,AE9F-122E-5B38:Canonical,northamerica-northeast2,0.283032
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,1799-9615-FEB5:Fortigcpproject001,northamerica-northeast1,0.137133
+GCP Cloud Infrastructure Services Apache Tomcat Server on Windows 2019,Cloud Infrastructure Services,0884-0E71-285E:CloudInfrastructureServices,asia-south1,0.031097
+GCP Techlatest.net Cloud IDE for Python using Jupyter & Visual Studio Code,Techlatest.net,ED03-FAF5-363E:Techlatestnet,us-central1,0.023721
+GCP Compute Engine,Canonical,42E1-5575-4D1E:Canonical,europe-west2,0.015156000000000001
+GCP Techlatest.net MUJEFA - Python AI & Machine Learning kit,Techlatest.net,862A-B0AB-7DBE:Techlatestnet,us-central1,0.01253
+"GCP NetApp, Inc. NetApp Cloud Volumes Service",41748,76D5-EC82-A818:41748,us-west4,0.008749000000000003
+GCP Compute Engine,Canonical,F367-1125-F0DA:Canonical,us-east1,0.0025889999999999997
+GCP Compute Engine,Canonical,F367-1125-F0DA:Canonical,asia-northeast1,0.001089
+GCP Compute Engine,Canonical,5245-3320-9740:Canonical,asia-northeast1,0.000333
+GCP Compute Engine,Canonical,BCF2-FB67-327C:Canonical,europe-west4,0.0001364954785872718
+GCP Compute Engine,Canonical,2BEE-88DC-F577:Canonical,europe-west4,0.00004623233952149528
+GCP Compute Engine,Canonical,17CE-8511-20A6:Canonical,me-west1,0.000027
+GCP Fortinet Inc. Fortinet FortiWeb Web Application Firewall WAF VM,fortigcp-project-001,migration-credit-20-1640299006916r,northamerica-northeast2,0.000009000000000000004
+GCP Compute Engine,Canonical,39C0-FE5F-B504:Canonical,me-west1,0.000008
+GCP Cisco Systems Catalyst 8000V Edge Software - BYOL,Cisco Systems,A9DC-33F2-5A4E:CiscoSystems,us-central1,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,us-west2,0
+GCP Fortinet Inc. FortiManager Centralized Security Management,Fortinet Inc.,B719-0D39-2D51:FortinetInc,europe-north1,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,us-east5,0
+GCP Ergon Informatik AG Airlock Gateway 7.7,Ergon Informatik AG,B5A0-BA28-ED1C:ErgonInformatikAG,europe-west6,0
+GCP Grafana Labs Grafana Cloud,Grafana Labs,088D-132E-B0F2:GrafanaLabs,(not set),0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL)",Palo Alto Networks,B296-E95A-3E11:PaloAltoNetworks,europe-west4,0
+GCP Cisco Systems Cisco Cloud Services Router 1000V (CSR 1000V),"Cisco Systems, Inc.",6367-1620-9526:CiscoSystemsInc,northamerica-northeast1,0
+GCP Fortinet Inc. FortiManager Centralized Security Management,Fortinet Inc.,migration-credit-20-1640299006916r,asia-south1,0
+GCP Check Point Software Technologies Check Point CloudGuard IaaS Firewall & Threat Prevention (BYOL),Check Point Software Technologies,E47E-819C-FE27:CheckPointSoftwareTechnologies,us-east4,0
+"GCP Qualys, Inc. Qualys Virtual Scanner Appliance",Qualys,C8B6-4F21-93F5:Qualys,asia-south1,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,australia-southeast2,0
+GCP Bitnami Elasticsearch Certified by Bitnami,Bitnami,0D49-2230-0EA5:Bitnami,us-west2,0
+GCP Check Point Software Technologies Check Point CloudGuard IaaS Firewall & Threat Prevention (BYOL),Check Point Software Technologies,E47E-819C-FE27:CheckPointSoftwareTechnologies,australia-southeast1,0
+GCP Bitnami LimeSurvey Certified by Bitnami,Bitnami,7A32-E4C9-E104:Bitnami,europe-west4,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL)",Palo Alto Networks,B296-E95A-3E11:PaloAltoNetworks,us-west2,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,me-west1,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,us-west4,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,us-east4,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,asia-south1,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL and ELA)","Palo Alto Networks, Inc.",CBB3-CE08-DA2F:PaloAltoNetworksInc,us-west1,0
+GCP Arista Networks Inc. cloudeos-router-byol,Arista Networks Inc.,3976-73F9-EEDD:AristaNetworksInc,europe-west3,0
+GCP IBM Security QRadar Security Intelligence Platform Managed Host v7.3.2 P1,IBM Security,8AFE-C612-249B:IBMSecurity,us-east4,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL)",Palo Alto Networks,B296-E95A-3E11:PaloAltoNetworks,europe-west2,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,northamerica-northeast2,0
+GCP Fortinet Inc. FortiAnalyzer Centralized Logging/Reporting,Fortinet Inc.,765A-0BB7-0BEA:FortinetInc,europe-west3,0
+GCP Fortinet Inc. FortiAnalyzer Centralized Logging/Reporting,Fortinet Inc.,765A-0BB7-0BEA:FortinetInc,europe-west1,0
+GCP Cisco Systems Catalyst 8000V Edge Software - BYOL,Cisco Systems,A9DC-33F2-5A4E:CiscoSystems,northamerica-northeast2,0
+GCP Flowmon Networks Flowmon for Google Cloud,Flowmon Networks,1892-E3C4-E242:FlowmonNetworks,us-west1,0
+GCP Compute Engine,AlmaLinux,26D8-A7E1-D42A:AlmaLinux,europe-west4,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,europe-west1,0
+GCP Fortinet Inc. Fortinet FortiADC-VM Application Delivery Controller BYOL,Fortinet Inc.,5587-2CB1-04E2:FortinetInc,asia-east1,0
+GCP Compute Engine,AlmaLinux,26D8-A7E1-D42A:AlmaLinux,us-east4,0
+GCP Arista Networks Inc. cloudeos-router-byol,Arista Networks Inc.,3976-73F9-EEDD:AristaNetworksInc,asia-south1,0
+"GCP F5 Networks F5 BIG-IP VE  LTM/DNS   (BYOL, 2 Boot Locations)",F5 Networks,B8CF-0133-9F13:F5Networks,us-central1,0
+GCP OpenVPN Inc. OpenVPN Access Server,OpenVPN Inc.,88B2-8C92-0469:OpenVPNInc,europe-west1,0
+GCP Flowmon Networks Flowmon for Google Cloud,Flowmon Networks,1892-E3C4-E242:FlowmonNetworks,us-east4,0
+GCP Dell EMC PowerProtect DD Virtual Edition,Dell EMC,1510-9824-992E:DellEMC,europe-west4,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,asia-south1,0
+GCP Bitnami MongoDB with Replication,Bitnami,E644-D414-57A1:Bitnami,us-west2,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,europe-west3,0
+GCP Fortinet Inc. Fortinet FortiWeb Web Application Firewall WAF VM,fortigcp-project-001,B426-7150-E353:Fortigcpproject001,us-central1,0
+GCP Fortinet Inc. FortiAnalyzer Centralized Logging/Reporting,Fortinet Inc.,765A-0BB7-0BEA:FortinetInc,europe-north1,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,us-east1,0
+GCP Cisco Systems Cisco Firepower NGFW virtual firewall (NGFWv),Cisco Systems,ABF5-4850-C1AD:CiscoSystems,us-east4,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,europe-central2,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,us-west1,0
+GCP Flowmon Networks Flowmon for Google Cloud,Flowmon Networks,1892-E3C4-E242:FlowmonNetworks,asia-south2,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL)",Palo Alto Networks,B296-E95A-3E11:PaloAltoNetworks,europe-north1,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL and ELA)","Palo Alto Networks, Inc.",CBB3-CE08-DA2F:PaloAltoNetworksInc,australia-southeast2,0
+"GCP Qualys, Inc. Qualys Virtual Scanner Appliance",Qualys,C8B6-4F21-93F5:Qualys,europe-west2,0
+GCP Compute Engine,AlmaLinux,26D8-A7E1-D42A:AlmaLinux,us-central1,0
+GCP Cisco Systems Cisco Cloud Services Router 1000V - 16.12 - BYOL,Cisco Systems,F448-4623-B0A8:CiscoSystems,asia-northeast2,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,us-west1,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,asia-south2,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,northamerica-northeast1,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,europe-southwest1,0
+GCP Compute Engine,AlmaLinux,26D8-A7E1-D42A:AlmaLinux,us-west1,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,us-east4,0
+GCP Fortinet Inc. FortiManager Centralized Security Management,Fortinet Inc.,B719-0D39-2D51:FortinetInc,us-west1,0
+"GCP Qualys, Inc. Qualys Virtual Scanner Appliance",Qualys,C8B6-4F21-93F5:Qualys,europe-west3,0
+"GCP Qualys, Inc. Qualys Virtual Scanner Appliance",Qualys,C8B6-4F21-93F5:Qualys,europe-west4,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL and ELA)","Palo Alto Networks, Inc.",CBB3-CE08-DA2F:PaloAltoNetworksInc,australia-southeast1,0
+GCP Fortinet Inc. FortiAnalyzer Centralized Logging/Reporting,Fortinet Inc.,765A-0BB7-0BEA:FortinetInc,us-central1,0
+GCP Fortinet Inc. FortiManager Centralized Security Management,Fortinet Inc.,B719-0D39-2D51:FortinetInc,europe-west1,0
+"GCP Kaminario, inc. Silk Cloud Data Platform","Kaminario, inc.",5F9B-A80D-76C2:Kaminarioinc,us-east4,0
+GCP Bitnami RabbitMQ Certified by Bitnami,Bitnami,B156-EB7D-EC4D:Bitnami,us-east1,0
+GCP Cisco Systems Cisco Cloud Services Router 1000V - 16.12 - BYOL,Cisco Systems,F448-4623-B0A8:CiscoSystems,europe-west4,0
+GCP Bitnami MongoDB Certified by Bitnami,Bitnami,A53D-791A-7F10:Bitnami,europe-west1,0
+GCP Fortinet Inc. FortiManager Centralized Security Management,Fortinet Inc.,B719-0D39-2D51:FortinetInc,us-central1,0
+GCP Check Point Software Technologies Check Point CloudGuard IaaS Firewall & Threat Prevention (BYOL),Check Point Software Technologies,E47E-819C-FE27:CheckPointSoftwareTechnologies,europe-west4,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL)",Palo Alto Networks,B296-E95A-3E11:PaloAltoNetworks,australia-southeast1,0
+GCP Compute Engine,AlmaLinux,26D8-A7E1-D42A:AlmaLinux,europe-west1,0
+"GCP Qualys, Inc. Qualys Virtual Scanner Appliance",Qualys,C8B6-4F21-93F5:Qualys,us-east4,0
+GCP Fortinet Inc. FortiAnalyzer Centralized Logging/Reporting,Fortinet Inc.,765A-0BB7-0BEA:FortinetInc,europe-west4,0
+GCP Bitnami Grafana Certified by Bitnami,Bitnami,DB81-3662-F7B2:Bitnami,us-east4,0
+GCP Compute Engine,Canonical,DB18-806B-B6E0:Canonical,us-west1,0
+"GCP Odysseus Data Services, Inc OHDSI ATLAS","Odysseus Data Services, Inc",E479-6554-D1CE:OdysseusDataServicesInc,europe-west2,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,europe-west6,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,asia-east1,0
+GCP Fortinet Inc. Fortinet FortiWeb Web Application Firewall WAF VM,fortigcp-project-001,B426-7150-E353:Fortigcpproject001,us-east1,0
+"GCP Citrix Systems, Inc. Citrix ADC VPX - Customer Licensed",Citrix,EBA2-0D4A-38FD:Citrix,us-east4,0
+GCP Dell EMC PowerProtect DD Virtual Edition,Dell EMC,1510-9824-992E:DellEMC,europe-west3,0
+GCP Compute Engine,Fedora CoreOS,6DC9-0718-91AD:FedoraCoreOS,us-central1,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,us-central1,0
+GCP Cisco Systems Cisco Cloud Services Router 1000V (CSR 1000V),"Cisco Systems, Inc.",6367-1620-9526:CiscoSystemsInc,europe-west3,0
+"GCP Qualys, Inc. Qualys Virtual Scanner Appliance",Qualys,C8B6-4F21-93F5:Qualys,us-central1,0
+GCP OpenVPN Inc. OpenVPN Access Server,OpenVPN Inc.,88B2-8C92-0469:OpenVPNInc,us-central1,0
+"GCP Qualys, Inc. Qualys Virtual Scanner Appliance",Qualys,C8B6-4F21-93F5:Qualys,us-west2,0
+GCP Fortinet Inc. Fortinet FortiWeb Web Application Firewall WAF VM,fortigcp-project-001,B426-7150-E353:Fortigcpproject001,us-west1,0
+GCP Arista Networks Inc. cloudeos-router-byol,Arista Networks Inc.,3976-73F9-EEDD:AristaNetworksInc,australia-southeast1,0
+GCP Fortinet Inc. FortiManager Centralized Security Management,Fortinet Inc.,B719-0D39-2D51:FortinetInc,us-east1,0
+GCP Cisco Systems Cisco Cloud Services Router 1000V (CSR 1000V),"Cisco Systems, Inc.",6367-1620-9526:CiscoSystemsInc,us-west1,0
+GCP Compute Engine,AlmaLinux,26D8-A7E1-D42A:AlmaLinux,us-east5,0
+GCP Flowmon Networks Flowmon for Google Cloud,Flowmon Networks,1892-E3C4-E242:FlowmonNetworks,us-east1,0
+GCP VMware Inc. vmware-sdwan,VMware Inc.,51D1-9DD0-D722:VMwareInc,us-east1,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL and ELA)","Palo Alto Networks, Inc.",CBB3-CE08-DA2F:PaloAltoNetworksInc,us-east4,0
+GCP Cisco Systems Cisco Cloud Services Router 1000V - 16.12 - BYOL,Cisco Systems,F448-4623-B0A8:CiscoSystems,australia-southeast1,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL)",Palo Alto Networks,B296-E95A-3E11:PaloAltoNetworks,us-west1,0
+GCP Cisco Systems Catalyst 8000V Edge Software - BYOL,Cisco Systems,A9DC-33F2-5A4E:CiscoSystems,australia-southeast2,0
+GCP Bitnami LAMP Certified by Bitnami,Bitnami,409F-88CE-D3A3:Bitnami,us-east4,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,europe-central2,0
+GCP Cisco Systems Cisco Cloud Services Router 1000V - 17.2.1r - BYOL,Cisco Systems,2AA4-01D1-9509:CiscoSystems,us-central1,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,australia-southeast1,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,us-central1,0
+GCP Check Point Software Technologies Check Point CloudGuard IaaS Firewall & Threat Prevention (BYOL),Check Point Software Technologies,E47E-819C-FE27:CheckPointSoftwareTechnologies,asia-southeast1,0
+GCP Check Point Software Technologies Check Point CloudGuard IaaS Firewall & Threat Prevention (BYOL),Check Point Software Technologies,E47E-819C-FE27:CheckPointSoftwareTechnologies,europe-west6,0
+GCP Fortinet Inc. FortiAnalyzer Centralized Logging/Reporting,Fortinet Inc.,765A-0BB7-0BEA:FortinetInc,europe-southwest1,0
+GCP Bitnami Redis Certified by Bitnami,Bitnami,CF24-0E96-846C:Bitnami,us-central1,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL and ELA)","Palo Alto Networks, Inc.",CBB3-CE08-DA2F:PaloAltoNetworksInc,europe-west3,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,europe-west3,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,asia-southeast2,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL and ELA)","Palo Alto Networks, Inc.",CBB3-CE08-DA2F:PaloAltoNetworksInc,europe-west2,0
+"GCP F5 Networks F5 BIG-IP VE  ALL   (BYOL, 1 Boot Location)",F5 Networks,878D-03EF-AFD4:F5Networks,europe-west3,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL)",Palo Alto Networks,B296-E95A-3E11:PaloAltoNetworks,australia-southeast2,0
+GCP Bitnami SilverStripe Certified by Bitnami,Bitnami,A00F-0040-EB8A:Bitnami,europe-west4,0
+GCP Bitnami Re:dash Certified by Bitnami,Bitnami,298B-1C7D-CC82:Bitnami,europe-west4,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,asia-east2,0
+GCP Cisco Systems Cisco Firepower NGFW virtual firewall (NGFWv),Cisco Systems,ABF5-4850-C1AD:CiscoSystems,us-west4,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,europe-west1,0
+GCP Dell EMC PowerProtect DD Virtual Edition,Dell EMC,1510-9824-992E:DellEMC,us-east4,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,europe-west4,0
+GCP Fortinet Inc. FortiAnalyzer Centralized Logging/Reporting,Fortinet Inc.,765A-0BB7-0BEA:FortinetInc,europe-west2,0
+GCP Fortinet Inc. FortiManager Centralized Security Management,Fortinet Inc.,B719-0D39-2D51:FortinetInc,asia-south1,0
+GCP Compute Engine,AlmaLinux,26D8-A7E1-D42A:AlmaLinux,us-west4,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,asia-southeast1,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,asia-northeast1,0
+GCP Bitnami Jenkins Certified by Bitnami,Bitnami,9BDE-FF12-CA82:Bitnami,europe-west1,0
+GCP Flowmon Networks Flowmon for Google Cloud,Flowmon Networks,1892-E3C4-E242:FlowmonNetworks,northamerica-northeast1,0
+GCP Bitnami JFrog Artifactory Open Source Certified by Bitnami,Bitnami,C7B0-DC3A-B14B:Bitnami,europe-west1,0
+GCP VMware Inc. vmware-sdwan,VMware Inc.,51D1-9DD0-D722:VMwareInc,us-central1,0
+GCP Fortinet Inc. FortiManager Centralized Security Management,Fortinet Inc.,B719-0D39-2D51:FortinetInc,europe-west3,0
+GCP Bitnami Roundcube Certified by Bitnami,Bitnami,3887-F043-F6FA:Bitnami,europe-west4,0
+GCP Compute Engine,Fedora CoreOS,154C-0C33-4E1F:FedoraCoreOS,us-central1,0
+"GCP Qualys, Inc. Qualys Virtual Scanner Appliance",Qualys,C8B6-4F21-93F5:Qualys,us-west4,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,us-east1,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,europe-north1,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,europe-north1,0
+GCP Bitnami NATS Certified by Bitnami,Bitnami,0822-2AE2-39DA:Bitnami,europe-west4,0
+GCP Cisco Systems Cisco Firepower NGFW virtual firewall (NGFWv),Cisco Systems,ABF5-4850-C1AD:CiscoSystems,us-central1,0
+GCP Dell EMC PowerProtect Data Manager and PowerProtect DD Virtual Edition,Dell EMC,87A3-8BED-042D:DellEMC,us-west2,0
+GCP Check Point Software Technologies Check Point CloudGuard IaaS Firewall & Threat Prevention (BYOL),Check Point Software Technologies,E47E-819C-FE27:CheckPointSoftwareTechnologies,asia-south1,0
+GCP Compute Engine,AlmaLinux,26D8-A7E1-D42A:AlmaLinux,us-west2,0
+GCP Fortinet Inc. FortiManager Centralized Security Management,Fortinet Inc.,B719-0D39-2D51:FortinetInc,us-east4,0
+GCP Arista Networks Inc. cloudeos-router-byol,Arista Networks Inc.,3976-73F9-EEDD:AristaNetworksInc,asia-south2,0
+GCP Cisco Systems Cisco Cloud Services Router 1000V (CSR 1000V),"Cisco Systems, Inc.",6367-1620-9526:CiscoSystemsInc,asia-southeast1,0
+GCP Fortinet Inc. Fortinet FortiWeb Web Application Firewall WAF VM,fortigcp-project-001,B426-7150-E353:Fortigcpproject001,europe-west1,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,europe-west4,0
+GCP IBM Security QRadar Security Intelligence Platform Managed Host v7.3.2 P1,IBM Security,8AFE-C612-249B:IBMSecurity,europe-west3,0
+GCP Compute Engine,AlmaLinux,26D8-A7E1-D42A:AlmaLinux,asia-northeast1,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL and ELA)","Palo Alto Networks, Inc.",CBB3-CE08-DA2F:PaloAltoNetworksInc,us-west2,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,us-west2,0
+GCP Cisco Systems Cisco Meraki vMX,Cisco Systems,C733-CA56-977B:CiscoSystems,australia-southeast1,0
+GCP Arista Networks Inc. cloudeos-router-byol,Arista Networks Inc.,3976-73F9-EEDD:AristaNetworksInc,australia-southeast2,0
+GCP Cisco Systems Catalyst 8000V Edge Software - BYOL,Cisco Systems,A9DC-33F2-5A4E:CiscoSystems,us-west1,0
+GCP Bitnami MariaDB Certified by Bitnami,Bitnami,478E-F794-DB09:Bitnami,europe-west4,0
+GCP Fortinet Inc. Fortinet FortiWeb Web Application Firewall WAF VM,fortigcp-project-001,B426-7150-E353:Fortigcpproject001,asia-southeast2,0
+GCP Cisco Systems Cisco Firepower NGFW virtual firewall (NGFWv),Cisco Systems,ABF5-4850-C1AD:CiscoSystems,europe-west3,0
+GCP Bitnami GitLab CE Certified by Bitnami,Bitnami,60C3-D3AC-CE93:Bitnami,us-east4,0
+GCP Fortinet Inc. FortiAnalyzer Centralized Logging/Reporting,Fortinet Inc.,765A-0BB7-0BEA:FortinetInc,us-west1,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,australia-southeast1,0
+GCP Compute Engine,Fedora CoreOS,6DC9-0718-91AD:FedoraCoreOS,us-east1,0
+GCP Compute Engine,Canonical,DB18-806B-B6E0:Canonical,australia-southeast1,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL and ELA)","Palo Alto Networks, Inc.",CBB3-CE08-DA2F:PaloAltoNetworksInc,us-central1,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL and ELA)","Palo Alto Networks, Inc.",CBB3-CE08-DA2F:PaloAltoNetworksInc,asia-southeast1,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,southamerica-east1,0
+GCP Bitnami Mantis Certified by Bitnami,Bitnami,29ED-D366-CB9F:Bitnami,asia-southeast2,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL)",Palo Alto Networks,B296-E95A-3E11:PaloAltoNetworks,us-east4,0
+GCP Bitnami MongoDB Certified by Bitnami,Bitnami,A53D-791A-7F10:Bitnami,us-east1,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,europe-west2,0
+GCP Bitnami DokuWiki Certified by Bitnami,Bitnami,8B43-E03B-E3F6:Bitnami,europe-west4,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL and ELA)","Palo Alto Networks, Inc.",CBB3-CE08-DA2F:PaloAltoNetworksInc,northamerica-northeast2,0
+GCP Cisco Systems Cisco Cloud Services Router 1000V - 17.2.1r - BYOL,Cisco Systems,2AA4-01D1-9509:CiscoSystems,us-east4,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL)",Palo Alto Networks,B296-E95A-3E11:PaloAltoNetworks,us-central1,0
+GCP Bitnami phpBB Certified by Bitnami,Bitnami,8812-B1FC-AA9B:Bitnami,europe-west4,0
+GCP Fortinet Inc. Fortinet FortiWeb Web Application Firewall WAF VM,fortigcp-project-001,B426-7150-E353:Fortigcpproject001,asia-northeast1,0
+GCP Cisco Systems Cisco Cloud Services Router 1000V - 16.12 - BYOL,Cisco Systems,F448-4623-B0A8:CiscoSystems,southamerica-east1,0
+GCP Compute Engine,AlmaLinux,26D8-A7E1-D42A:AlmaLinux,us-east1,0
+GCP Cisco Systems Catalyst 8000V Edge Software - BYOL,Cisco Systems,A9DC-33F2-5A4E:CiscoSystems,europe-west4,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,australia-southeast2,0
+GCP Bitnami OroCRM Certified by Bitnami,Bitnami,4231-D134-E1BC:Bitnami,europe-west4,0
+GCP Bitnami Re:dash Certified by Bitnami,Bitnami,298B-1C7D-CC82:Bitnami,us-central1,0
+GCP Cisco Systems Cisco Cloud Services Router 1000V (CSR 1000V),"Cisco Systems, Inc.",6367-1620-9526:CiscoSystemsInc,europe-west2,0
+GCP velospublic velostrata,Velostrata,C815-CC1F-C810:Velostrata,us-central1,0
+GCP Cisco Systems Cisco Cloud Services Router 1000V - 16.12 - BYOL,Cisco Systems,F448-4623-B0A8:CiscoSystems,asia-south1,0
+GCP Dell EMC PowerProtect DD Virtual Edition,Dell EMC,1510-9824-992E:DellEMC,us-west2,0
+GCP IBM Security QRadar Security Intelligence Platform Managed Host v7.3.2 P1,IBM Security,8AFE-C612-249B:IBMSecurity,europe-west2,0
+GCP Fortinet Inc. Fortinet FortiWeb Web Application Firewall WAF VM,fortigcp-project-001,B426-7150-E353:Fortigcpproject001,asia-east1,0
+GCP Bitnami Jenkins Certified by Bitnami,Bitnami,9BDE-FF12-CA82:Bitnami,us-west2,0
+GCP Fortinet Inc. Fortinet FortiADC-VM Application Delivery Controller BYOL,Fortinet Inc.,5587-2CB1-04E2:FortinetInc,europe-central2,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,europe-west8,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,asia-northeast1,0
+GCP Flowmon Networks Flowmon for Google Cloud,Flowmon Networks,1892-E3C4-E242:FlowmonNetworks,europe-west3,0
+GCP Bitnami MongoDB Certified by Bitnami,Bitnami,A53D-791A-7F10:Bitnami,us-central1,0
+GCP OpenVPN Inc. OpenVPN Access Server,OpenVPN Inc.,88B2-8C92-0469:OpenVPNInc,europe-west6,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,asia-southeast2,0
+GCP Bitnami HashiCorp Consul Certified by Bitnami,Bitnami,D139-03E2-CF84:Bitnami,europe-west4,0
+GCP Check Point Software Technologies Check Point CloudGuard IaaS High Availability (BYOL),Check Point Software Technologies,619B-BB0A-A6CD:CheckPointSoftwareTechnologies,europe-west3,0
+GCP Bitnami WordPress Certified by Bitnami and Automattic,Bitnami,4B39-11CA-18B7:Bitnami,us-central1,0
+GCP velospublic velostrata,Velostrata,C815-CC1F-C810:Velostrata,europe-west4,0
+GCP Bitnami JFrog Artifactory Open Source Certified by Bitnami,Bitnami,C7B0-DC3A-B14B:Bitnami,europe-west2,0
+GCP Bitnami WordPress Certified by Bitnami and Automattic,Bitnami,4B39-11CA-18B7:Bitnami,europe-west4,0
+GCP Arista Networks Inc. cloudeos-router-byol,Arista Networks Inc.,3976-73F9-EEDD:AristaNetworksInc,us-east1,0
+GCP Bitnami Re:dash Certified by Bitnami,Bitnami,298B-1C7D-CC82:Bitnami,europe-west3,0
+GCP velospublic velostrata,Velostrata,C815-CC1F-C810:Velostrata,asia-south1,0
+GCP Compute Engine,AlmaLinux,26D8-A7E1-D42A:AlmaLinux,europe-west3,0
+GCP Bitnami Discourse Certified by Bitnami,Bitnami,F6F0-923B-EB5B:Bitnami,europe-west4,0
+GCP Check Point Software Technologies Check Point CloudGuard IaaS Firewall & Threat Prevention (BYOL),Check Point Software Technologies,E47E-819C-FE27:CheckPointSoftwareTechnologies,us-east1,0
+GCP Check Point Software Technologies Check Point CloudGuard IaaS Firewall & Threat Prevention (BYOL),Check Point Software Technologies,E47E-819C-FE27:CheckPointSoftwareTechnologies,southamerica-east1,0
+GCP Bitnami WordPress with NGINX and SSL Certified by Bitnami and Automattic,Bitnami,E5C5-3F68-46BB:Bitnami,europe-west4,0
+GCP Flowmon Networks Flowmon for Google Cloud,Flowmon Networks,1892-E3C4-E242:FlowmonNetworks,australia-southeast2,0
+GCP Cisco Systems Cisco Firepower NGFW virtual firewall (NGFWv),Cisco Systems,ABF5-4850-C1AD:CiscoSystems,southamerica-east1,0
+GCP IBM Security QRadar Security Intelligence Platform Managed Host v7.3.2 P1,IBM Security,8AFE-C612-249B:IBMSecurity,europe-west4,0
+GCP JFrog Cloud Pro X,JFrog,45BA-E7E1-CEE6:JFrog,(not set),0
+GCP velospublic velostrata,Velostrata,C815-CC1F-C810:Velostrata,europe-west3,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,europe-west2,0
+GCP OpenVPN Inc. OpenVPN Access Server,OpenVPN Inc.,88B2-8C92-0469:OpenVPNInc,us-east4,0
+GCP Cisco Systems Cisco Cloud Services Router 1000V - 16.12 - BYOL,Cisco Systems,F448-4623-B0A8:CiscoSystems,us-west1,0
+GCP Bitnami CouchDB Certified by Bitnami,Bitnami,4B6B-81A1-C022:Bitnami,europe-west4,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL)",Palo Alto Networks,B296-E95A-3E11:PaloAltoNetworks,us-east1,0
+GCP Veeam Software Veeam Backup for Google Cloud Platform,Veeam Software,C4C6-94B5-C02F:VeeamSoftware,us-east4,0
+GCP Reblaze Technologies Reblaze (BYOL),Reblaze,02D0-8CE5-9C6A:Reblaze,us-central1,0
+GCP Arista Networks Inc. cloudeos-router-byol,Arista Networks Inc.,3976-73F9-EEDD:AristaNetworksInc,us-west1,0
+GCP Fortinet Inc. FortiManager Centralized Security Management,Fortinet Inc.,B719-0D39-2D51:FortinetInc,europe-southwest1,0
+GCP VMware Inc. vmware-sdwan,VMware Inc.,51D1-9DD0-D722:VMwareInc,asia-southeast1,0
+GCP OpenVPN Inc. OpenVPN Access Server,OpenVPN Inc.,88B2-8C92-0469:OpenVPNInc,us-east1,0
+GCP Cisco Systems Cisco ASA virtual firewall (ASAv),Cisco Systems,EC1B-5004-C4E9:CiscoSystems,us-central1,0
+GCP Compute Engine,AlmaLinux,26D8-A7E1-D42A:AlmaLinux,asia-northeast2,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL and ELA)","Palo Alto Networks, Inc.",CBB3-CE08-DA2F:PaloAltoNetworksInc,asia-south1,0
+GCP Bitnami Matomo Certified by Bitnami,Bitnami,F905-7A44-9D2E:Bitnami,europe-west4,0
+GCP Flowmon Networks Flowmon for Google Cloud,Flowmon Networks,1892-E3C4-E242:FlowmonNetworks,australia-southeast1,0
+GCP Compute Engine,Debian,migration-credit-21-1640299006916r,us-east1,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,asia-east2,0
+GCP Bitnami WordPress Multi-Tier Certified by Bitnami and Automattic,Bitnami,4943-101C-1783:Bitnami,europe-west4,0
+GCP Cisco Systems Cisco Firepower NGFW virtual firewall (NGFWv),Cisco Systems,ABF5-4850-C1AD:CiscoSystems,europe-west4,0
+GCP Cisco Systems Cisco Cloud Services Router 1000V - 16.12 - BYOL,Cisco Systems,F448-4623-B0A8:CiscoSystems,asia-northeast1,0
+GCP Cisco Systems Catalyst 8000V Edge Software - BYOL,Cisco Systems,A9DC-33F2-5A4E:CiscoSystems,europe-west2,0
+GCP Fortinet Inc. Fortinet FortiWeb Web Application Firewall WAF VM,fortigcp-project-001,B426-7150-E353:Fortigcpproject001,northamerica-northeast2,0
+GCP Bitnami WordPress Multisite Certified by Bitnami and Automattic  ,Bitnami,B0EA-8845-1DC8:Bitnami,europe-west4,0
+GCP Bitnami WildFly Certified by Bitnami,Bitnami,50F1-3D10-122E:Bitnami,europe-west4,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,us-south1,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL)",Palo Alto Networks,B296-E95A-3E11:PaloAltoNetworks,asia-southeast1,0
+GCP Dataiku,Dataiku,FCE6-33C6-B264:Dataiku,europe-west3,0
+GCP Arista Networks Inc. cloudeos-router-byol,Arista Networks Inc.,3976-73F9-EEDD:AristaNetworksInc,northamerica-northeast1,0
+GCP BlueCat Networks BlueCat DNS for Google Cloud Platform,BlueCat Networks,6E6E-8792-B037:BlueCatNetworks,us-central1,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,europe-west8,0
+GCP Cisco Systems Cisco Cloud Services Router 1000V - 16.12 - BYOL,Cisco Systems,F448-4623-B0A8:CiscoSystems,asia-southeast1,0
+GCP Cisco Systems Cisco Firepower NGFW virtual firewall (NGFWv),Cisco Systems,ABF5-4850-C1AD:CiscoSystems,asia-northeast1,0
+GCP Bitnami MyBB Certified by Bitnami,Bitnami,3329-EEC0-3186:Bitnami,europe-west4,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,asia-southeast1,0
+GCP Bitnami Joomla! Certified by Bitnami,Bitnami,74B6-BEC9-7AFF:Bitnami,europe-west4,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,northamerica-northeast2,0
+GCP Bitnami Redis High Availability,Bitnami,42A2-2D4B-B23A:Bitnami,europe-west4,0
+GCP Flowmon Networks Flowmon for Google Cloud,Flowmon Networks,1892-E3C4-E242:FlowmonNetworks,northamerica-northeast2,0
+GCP Bitnami JRuby Certified by Bitnami,Bitnami,CAD6-71BA-4293:Bitnami,europe-west4,0
+GCP Cisco Systems Cisco Firepower NGFW virtual firewall (NGFWv),Cisco Systems,ABF5-4850-C1AD:CiscoSystems,asia-northeast2,0
+GCP Fortinet Inc. Fortinet FortiADC-VM Application Delivery Controller BYOL,Fortinet Inc.,5587-2CB1-04E2:FortinetInc,us-west1,0
+GCP Bitnami Odoo Certified by Bitnami,Bitnami,E85E-7D97-4EB6:Bitnami,europe-west4,0
+GCP Bitnami Openfire Certified by Bitnami,Bitnami,D31A-F6AC-02BE:Bitnami,europe-west4,0
+GCP Arista Networks Inc. cloudeos-router-byol,Arista Networks Inc.,3976-73F9-EEDD:AristaNetworksInc,europe-west2,0
+GCP Bitnami SEO Panel Certified by Bitnami,Bitnami,95E6-5526-B7C8:Bitnami,europe-west4,0
+GCP OpenVPN Inc. OpenVPN Access Server,OpenVPN Inc.,88B2-8C92-0469:OpenVPNInc,us-west2,0
+GCP Bitnami RabbitMQ Certified by Bitnami,Bitnami,B156-EB7D-EC4D:Bitnami,europe-west4,0
+GCP Bitnami Elasticsearch Certified by Bitnami,Bitnami,0D49-2230-0EA5:Bitnami,us-central1,0
+"GCP NetApp, Inc. Cloud Manager for Cloud Volumes ONTAP",netapp-cloudmanager,2ab72b50-cca9-4d6a-ac48-a3e16b9b2203,ha pair,0
+GCP Bitnami Mattermost Team Edition Certified by Bitnami,Bitnami,97BC-0EDC-07FB:Bitnami,europe-west4,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,europe-southwest1,0
+GCP Bitnami Osclass Certified by Bitnami,Bitnami,A83D-7BF2-5747:Bitnami,europe-west4,0
+GCP Bitnami Simple Machines Forum Certified by Bitnami,Bitnami,65E2-E4A2-D596:Bitnami,europe-west4,0
+GCP Fortinet Inc. Fortinet FortiWeb Web Application Firewall WAF VM,fortigcp-project-001,B426-7150-E353:Fortigcpproject001,us-west2,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,asia-northeast3,0
+GCP Bitnami etcd Certified by Bitnami,Bitnami,8FBD-4443-27CF:Bitnami,europe-west4,0
+GCP Bitnami LAPP Certified by Bitnami,Bitnami,05B8-6D67-7FC5:Bitnami,europe-west4,0
+GCP Arista Networks Inc. cloudeos-router-byol,Arista Networks Inc.,3976-73F9-EEDD:AristaNetworksInc,us-central1,0
+GCP Bitnami Kafka Certified by Bitnami,Bitnami,A209-B7E1-04C3:Bitnami,europe-west4,0
+GCP Compute Engine,AlmaLinux,26D8-A7E1-D42A:AlmaLinux,asia-northeast3,0
+GCP Bitnami ERPNext Certified by Bitnami,Bitnami,E59E-78D1-AADB:Bitnami,europe-west4,0
+GCP BlueCat Networks BlueCat DNS Edge Proxy Service,BlueCat Networks,3E78-1CB6-F878:BlueCatNetworks,us-central1,0
+GCP H2O.ai Driverless AI (BYOL),H2O.ai,BB1D-6308-D712:H2Oai,europe-west4,0
+GCP Google Cloud Dataprep by Trifacta,Trifacta,F69D-74F2-D663:Trifacta,(not set),0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,migration-credit-21-1640299006916r,asia-east2,0
+GCP Bitnami LAMP Certified by Bitnami,Bitnami,409F-88CE-D3A3:Bitnami,us-east1,0
+GCP Bitnami LAMP Certified by Bitnami,Bitnami,409F-88CE-D3A3:Bitnami,europe-west4,0
+GCP Bitnami Redmine Certified by Bitnami,Bitnami,9EA4-4FDC-9D3B:Bitnami,europe-west4,0
+GCP Bitnami concrete5 Certified by Bitnami,Bitnami,5555-F0AC-3A91:Bitnami,europe-west4,0
+GCP Arista Networks Inc. cloudeos-router-byol,Arista Networks Inc.,3976-73F9-EEDD:AristaNetworksInc,us-east4,0
+GCP Bitnami Ruby Certified by Bitnami,Bitnami,C485-4A71-5DD7:Bitnami,europe-west4,0
+GCP OpenVPN Inc. OpenVPN Access Server,OpenVPN Inc.,88B2-8C92-0469:OpenVPNInc,europe-west2,0
+GCP Bitnami Cassandra Cluster,Bitnami,AD20-1A43-FE42:Bitnami,europe-west4,0
+"GCP Kaminario, inc. Silk Cloud Data Platform","Kaminario, inc.",5F9B-A80D-76C2:Kaminarioinc,northamerica-northeast1,0
+GCP Bitnami MariaDB with Replication,Bitnami,61A8-7456-E42E:Bitnami,europe-west4,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,asia-south2,0
+GCP Bitnami MODX Certified by Bitnami,Bitnami,542C-EC83-A8D5:Bitnami,europe-west4,0
+GCP VMware Inc. vmware-sdwan,VMware Inc.,51D1-9DD0-D722:VMwareInc,europe-west6,0
+GCP Bitnami Subversion Certified by Bitnami,Bitnami,6A7F-89B5-C283:Bitnami,europe-west4,0
+GCP Bitnami Publify Certified by Bitnami,Bitnami,4D64-0125-0563:Bitnami,europe-west4,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,asia-northeast3,0
+GCP VMware Inc. vmware-sdwan,VMware Inc.,51D1-9DD0-D722:VMwareInc,europe-west4,0
+GCP Fortinet Inc. Fortinet FortiWeb Web Application Firewall WAF VM,fortigcp-project-001,migration-credit-20-1640299006916r,asia-southeast2,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,europe-west6,0
+"GCP Citrix Systems, Inc. ADM Service Agent","Citrix Systems, Inc.",C960-8E89-59C8:CitrixSystemsInc,us-central1,0
+GCP Fortinet Inc. FortiAnalyzer Centralized Logging/Reporting,Fortinet Inc.,765A-0BB7-0BEA:FortinetInc,asia-southeast1,0
+"GCP Qualys, Inc. Qualys Virtual Scanner Appliance",Qualys,C8B6-4F21-93F5:Qualys,us-west1,0
+GCP Bitnami RabbitMQ Certified by Bitnami,Bitnami,B156-EB7D-EC4D:Bitnami,us-central1,0
+GCP Flowmon Networks Flowmon for Google Cloud,Flowmon Networks,1892-E3C4-E242:FlowmonNetworks,europe-west2,0
+GCP Compute Engine,Fedora CoreOS,154C-0C33-4E1F:FedoraCoreOS,us-east1,0
+GCP Cisco Systems Cisco Firepower NGFW virtual firewall (NGFWv),Cisco Systems,ABF5-4850-C1AD:CiscoSystems,us-west2,0
+GCP Arista Networks Inc. cloudeos-router-byol,Arista Networks Inc.,3976-73F9-EEDD:AristaNetworksInc,northamerica-northeast2,0
+GCP VMware Inc. vmware-sdwan,VMware Inc.,51D1-9DD0-D722:VMwareInc,asia-south1,0
+GCP Dell EMC PowerProtect Data Manager and PowerProtect DD Virtual Edition,Dell EMC,87A3-8BED-042D:DellEMC,us-east4,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL and ELA)","Palo Alto Networks, Inc.",CBB3-CE08-DA2F:PaloAltoNetworksInc,northamerica-northeast1,0
+GCP Cisco Systems Cisco Cloud Services Router 1000V - 16.12 - BYOL,Cisco Systems,F448-4623-B0A8:CiscoSystems,us-east4,0
+GCP Bitnami NGINX Open Source Certified by Bitnami,Bitnami,5A76-3A2E-6A8F:Bitnami,europe-west4,0
+GCP Bitnami Django Certified by Bitnami,Bitnami,D3DA-0673-3035:Bitnami,europe-west4,0
+GCP VMware Inc. vmware-sdwan,VMware Inc.,51D1-9DD0-D722:VMwareInc,us-east4,0
+GCP Fortinet Inc. FortiAnalyzer Centralized Logging/Reporting,Fortinet Inc.,765A-0BB7-0BEA:FortinetInc,us-east4,0
+GCP OpenVPN Inc. OpenVPN Access Server,OpenVPN Inc.,88B2-8C92-0469:OpenVPNInc,southamerica-east1,0
+GCP Aviatrix Secured Networking Platform - BYOL,Aviatrix,693B-AFA9-4B7B:Aviatrix,europe-west2,0
+GCP Bitnami Ghost Certified by Bitnami,Bitnami,7C17-45E8-9259:Bitnami,europe-west4,0
+GCP Bitnami MySQL Certified by Bitnami,Bitnami,925E-EEB8-F6F2:Bitnami,europe-west4,0
+GCP Compute Engine,AlmaLinux,26D8-A7E1-D42A:AlmaLinux,europe-west2,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,me-west1,0
+GCP Bitnami Kafka Cluster,Bitnami,2CB9-D143-9C27:Bitnami,us-east1,0
+GCP Bitnami Apache Guacamole Certified by Bitnami,Bitnami,761C-6624-BADE:Bitnami,europe-west4,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL)",Palo Alto Networks,B296-E95A-3E11:PaloAltoNetworks,europe-west1,0
+GCP Google Cloud Dataprep by Trifacta,Trifacta,8CFC-9DA2-CAAF:Trifacta,(not set),0
+GCP Bitnami Elasticsearch Certified by Bitnami,Bitnami,0D49-2230-0EA5:Bitnami,us-west1,0
+GCP Bitnami Tiny Tiny RSS Certified by Bitnami,Bitnami,9CE2-D200-476C:Bitnami,europe-west4,0
+GCP Bitnami Cassandra Certified by Bitnami,Bitnami,F858-D303-2AD6:Bitnami,europe-west4,0
+GCP Bitnami Pimcore Certified by Bitnami,Bitnami,78F9-6E5E-4D29:Bitnami,europe-west4,0
+GCP Cisco Systems Cisco Cloud Services Router 1000V (CSR 1000V),"Cisco Systems, Inc.",6367-1620-9526:CiscoSystemsInc,australia-southeast1,0
+GCP Cisco Systems Cisco Firepower Management Center (FMCv) BYOL,Cisco Systems,F3BF-BD5E-42A9:CiscoSystems,us-east4,0
+"GCP Citrix Systems, Inc. Citrix ADC VPX - Customer Licensed",Citrix,EBA2-0D4A-38FD:Citrix,asia-southeast1,0
+GCP Fortinet Inc. FortiManager Centralized Security Management,Fortinet Inc.,B719-0D39-2D51:FortinetInc,europe-west2,0
+GCP Bitnami EspoCRM Certified by Bitnami,Bitnami,E190-05EC-C386:Bitnami,europe-west4,0
+GCP Bitnami Neos Certified by Bitnami,Bitnami,E1B8-0A05-2772:Bitnami,europe-west4,0
+GCP Cisco Systems Cisco Firepower Management Center (FMCv) BYOL,Cisco Systems,F3BF-BD5E-42A9:CiscoSystems,us-central1,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL and ELA)","Palo Alto Networks, Inc.",CBB3-CE08-DA2F:PaloAltoNetworksInc,us-east1,0
+GCP Bitnami WordPress Certified by Bitnami and Automattic,Bitnami,4B39-11CA-18B7:Bitnami,us-west2,0
+GCP Check Point Software Technologies Check Point CloudGuard IaaS Firewall & Threat Prevention (BYOL),Check Point Software Technologies,E47E-819C-FE27:CheckPointSoftwareTechnologies,us-central1,0
+GCP Bitnami ResourceSpace Certified by Bitnami,Bitnami,1630-A677-F1C4:Bitnami,europe-west4,0
+GCP Bitnami Drupal Certified by Bitnami,Bitnami,0D3A-A806-E647:Bitnami,europe-west4,0
+GCP Bitnami TYPO3 Certified by Bitnami,Bitnami,FBFB-CC95-5CAC:Bitnami,europe-west4,0
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (BYOL and ELA)","Palo Alto Networks, Inc.",CBB3-CE08-DA2F:PaloAltoNetworksInc,asia-south2,0
+GCP Bitnami Mantis Certified by Bitnami,Bitnami,29ED-D366-CB9F:Bitnami,europe-west4,0
+"GCP Citrix Systems, Inc. Citrix ADC VPX - Customer Licensed",Citrix,EBA2-0D4A-38FD:Citrix,us-central1,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,me-central1,0
+GCP Bitnami Alfresco Community Certified by Bitnami,Bitnami,6F57-52DF-E693:Bitnami,europe-west4,0
+GCP Bitnami RabbitMQ Cluster,Bitnami,8454-0C4B-740D:Bitnami,europe-west4,0
+GCP Bitnami Weblate Certified by Bitnami,Bitnami,25D5-647D-7909:Bitnami,europe-west4,0
+GCP OpenVPN Inc. OpenVPN Access Server,OpenVPN Inc.,88B2-8C92-0469:OpenVPNInc,us-west1,0
+GCP OpenVPN Inc. OpenVPN Access Server,OpenVPN Inc.,88B2-8C92-0469:OpenVPNInc,europe-west3,0
+GCP Bitnami PostgreSQL Certified by Bitnami,Bitnami,E3B4-437F-F2F7:Bitnami,europe-west4,0
+GCP Flowmon Networks Flowmon for Google Cloud,Flowmon Networks,1892-E3C4-E242:FlowmonNetworks,asia-south1,0
+GCP Bitnami Kafka Cluster,Bitnami,2CB9-D143-9C27:Bitnami,europe-west4,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,us-east5,0
+GCP Bitnami TensorFlow Serving Certified by Bitnami,Bitnami,BF43-7F4F-9FC6:Bitnami,europe-west4,0
+GCP Bitnami phpList Certified by Bitnami,Bitnami,5E5A-5910-EDEF:Bitnami,europe-west4,0
+GCP Bitnami ActiveMQ Certified by Bitnami,Bitnami,3EEE-F0C3-DF8E:Bitnami,europe-west4,0
+GCP Bitnami MediaWiki Certified by Bitnami,Bitnami,7715-94B9-AD5B:Bitnami,europe-west4,0
+GCP Fortinet Inc. Fortinet FortiWeb Web Application Firewall WAF VM,fortigcp-project-001,B426-7150-E353:Fortigcpproject001,asia-south1,0
+GCP Bitnami MySQL with Replication,Bitnami,18E5-3D2F-5338:Bitnami,europe-west4,0
+GCP Bitnami Kong Certified by Bitnami,Bitnami,A11F-AFC3-0493:Bitnami,europe-west4,0
+GCP Bitnami PostgreSQL with Replication,Bitnami,9CA7-3BC4-CAAF:Bitnami,europe-west4,0
+GCP Bitnami Neo4j Certified by Bitnami,Bitnami,7E1B-4AF7-870F:Bitnami,europe-west4,0
+GCP Bitnami OpenCart Certified by Bitnami,Bitnami,F630-E859-3EC6:Bitnami,europe-west4,0
+GCP Bitnami AbanteCart Certified by Bitnami,Bitnami,87B0-F49B-4B85:Bitnami,europe-west4,0
+GCP Bitnami Memcached Multiple Instances,Bitnami,E9F2-947A-DB6F:Bitnami,europe-west4,0
+GCP Bitnami Live Helper Chat Certified by Bitnami,Bitnami,A888-28E7-FAC1:Bitnami,europe-west4,0
+GCP velospublic velostrata,Velostrata,C815-CC1F-C810:Velostrata,us-east4,0
+GCP Bitnami Moodle Certified by Bitnami,Bitnami,93D1-6499-33DC:Bitnami,europe-west4,0
+GCP Bitnami Dolibarr Certified by Bitnami,Bitnami,7DE0-1269-7B45:Bitnami,europe-west4,0
+GCP Bitnami PrestaShop Certified by Bitnami,Bitnami,1AC1-B761-07F5:Bitnami,europe-west4,0
+GCP Bitnami Memcached Certified by Bitnami,Bitnami,FAB2-BF04-2BDD:Bitnami,europe-west4,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,migration-credit-20-1640299006916r,asia-northeast1,0
+GCP Bitnami Redis Certified by Bitnami,Bitnami,CF24-0E96-846C:Bitnami,europe-west4,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,us-west3,0
+GCP Bitnami Apache Solr Certified by Bitnami,Bitnami,1957-9943-8C9A:Bitnami,europe-west4,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,migration-credit-20-1640299006916r,asia-southeast1,0
+GCP Compute Engine,Debian,6969-D00C-298F:Debian,me-central2,0
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,C054-AD83-7C30:FortinetInc,southamerica-east1,0
+"GCP NetApp, Inc. Cloud Manager for Cloud Volumes ONTAP",netapp-cloudmanager,2ab72b50-cca9-4d6a-ac48-a3e16b9b2203,(not set),0
+GCP Compute Engine,Debian,migration-credit-21-1640299006916r,europe-north1,-0.000001
+GCP Fortinet Inc. FortiAnalyzer Centralized Logging/Reporting,Fortinet Inc.,migration-credit-21-1640299006916r,europe-west2,-0.000001
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,migration-credit-21-1640299006916r,europe-west8,-0.000001
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,migration-credit-20-1640299006916r,europe-west4,-0.000001
+GCP Compute Engine,Debian,migration-credit-21-1640299006916r,asia-south2,-0.000001
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,migration-credit-20-1640299006916r,us-east1,-0.000001
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,migration-credit-21-1640299006916r,us-west1,-0.000001
+GCP Fortinet Inc. Fortinet FortiWeb Web Application Firewall WAF VM,fortigcp-project-001,migration-credit-21-1640299006916r,us-west1,-0.000001
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,migration-credit-20-1640299006916r,asia-southeast2,-0.000001
+GCP Compute Engine,Debian,migration-credit-21-1640299006916r,asia-southeast2,-0.000001
+GCP Compute Engine,Debian,migration-credit-20-1640299006916r,asia-south2,-0.000001
+GCP Compute Engine,Debian,migration-credit-21-1640299006916r,us-west2,-0.000001
+GCP Compute Engine,Debian,migration-credit-20-1640299006916r,us-central1,-0.0000010000000000000002
+GCP Fortinet Inc. FortiManager Centralized Security Management,Fortinet Inc.,migration-credit-20-1640299006916r,europe-west1,-0.0000010000000000000023
+GCP Compute Engine,Debian,migration-credit-21-1640299006916r,us-central1,-0.000002
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,migration-credit-21-1640299006916r,europe-west3,-0.000002
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,migration-credit-21-1640299006916r,us-central1,-0.000002
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,migration-credit-21-1640299006916r,europe-west4,-0.000002
+GCP Fortinet Inc. FortiAnalyzer Centralized Logging/Reporting,Fortinet Inc.,migration-credit-21-1640299006916r,europe-west4,-0.000002
+GCP Fortinet Inc. Fortinet FortiWeb Web Application Firewall WAF VM,fortigcp-project-001,migration-credit-21-1640299006916r,us-central1,-0.000002
+GCP Compute Engine,Debian,migration-credit-21-1640299006916r,europe-west1,-0.000003
+GCP Compute Engine,Debian,Discount on Total Spend,europe-north1,-0.000003000000000000001
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (BYOL),Fortinet Inc.,migration-credit-21-1640299006916r,us-east1,-0.0000049999999999999996
+GCP Compute Engine,Debian,Other Discount on Total Spend,us-central1,-0.000005999999999999999
+GCP Fortinet Inc. FortiManager Centralized Security Management,Fortinet Inc.,migration-credit-20-1640299006916r,us-central1,-0.000008000000000000001
+GCP Fortinet Inc. Fortinet FortiWeb Web Application Firewall WAF VM,fortigcp-project-001,migration-credit-21-1640299006916r,asia-east1,-0.000013
+GCP Compute Engine,Debian,Discount on Total Spend,europe-west2,-0.000016
+GCP Compute Engine,Debian,Discount on Total Spend,us-central1,-0.00010999999999999999
+GCP Compute Engine,Canonical,migration-credit-20-1640299006916r,europe-west1,-0.068493
+GCP Compute Engine,Canonical,migration-credit-20-1640299006916r,us-west1,-0.13699099999999997
+GCP CIS (Center for Internet Security) CIS Microsoft Windows Server 2012 R2 Benchmark - Level 2,CIS Center for Internet Security,migration-credit-8-1641310458578r,us-central1,-0.14003100000000002
+GCP CIS (Center for Internet Security) CIS Microsoft Windows Server 2016 Benchmark - Level 2,CIS (Center for Internet Security),migration-credit-8-1641310458578r,us-central1,-0.14003100000000004
+GCP Compute Engine,Canonical,migration-credit-21-1640299006916r,europe-west1,-0.168108
+GCP Compute Engine,Canonical,migration-credit-20-1640299006916r,asia-east1,-0.221751
+GCP Compute Engine,Canonical,migration-credit-21-1640299006916r,us-west1,-0.33621200000000007
+GCP CIS (Center for Internet Security) CIS Microsoft Windows Server 2019 Benchmark - Level 1,CIS (Center for Internet Security),migration-credit-9-1641310458578r,us-central1,-0.33999099999999993
+GCP CIS (Center for Internet Security) CIS Microsoft Windows Server 2012 R2 Benchmark - Level 2,CIS Center for Internet Security,migration-credit-9-1641310458578r,us-central1,-0.339991
+GCP CIS (Center for Internet Security) CIS Microsoft Windows Server 2016 Benchmark - Level 2,CIS (Center for Internet Security),migration-credit-9-1641310458578r,us-central1,-0.33999100000000004
+GCP Cloud Infrastructure Services Ansible Control Node Server on CentOS Server 8.4,Cloud Infrastructure Services,migration-credit-8-1641310458578r,us-central1,-0.35008399999999984
+GCP Compute Engine,Canonical,migration-credit-21-1640299006916r,asia-east1,-0.544242
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (Bundle2)","Palo Alto Networks, Inc.",migration-credit-8-1641310458578r,us-central1,-0.5704
+GCP Cloud Infrastructure Services Ansible Control Node Server on CentOS Server 8.4,Cloud Infrastructure Services,migration-credit-9-1641310458578r,us-central1,-0.8499909999999999
+GCP CIS (Center for Internet Security) CIS Red Hat Enterprise Linux 8 Benchmark - Level 1,CIS (Center for Internet Security),migration-credit-8-1641310458578r,us-central1,-1.6803770000000005
+GCP CIS (Center for Internet Security) CIS Ubuntu Linux 18.04 LTS Benchmark - Level 1,CIS (Center for Internet Security),migration-credit-8-1641310458578r,us-central1,-1.8204030000000007
+GCP CIS (Center for Internet Security) CIS NGINX on CentOS Linux 7 Benchmark - Level 1 - Webserver,CIS (Center for Internet Security),27f97212-4eb6-4659-91f1-a538884bbbad,us-east4,-1.8507389999999995
+"GCP Neo4j, Inc. Neo4j AuraDB Professional","Neo4j, Inc.",6bf0360d-f8a4-4be0-ac10-83e346d0e5a9,(not set),-2
+GCP CIS (Center for Internet Security) CIS NGINX on CentOS Linux 7 Benchmark - Level 1 - Webserver,CIS (Center for Internet Security),27f97212-4eb6-4659-91f1-a538884bbbad,us-east1,-2.082086999999999
+GCP Cloud Infrastructure Services Terraform on Ubuntu 18.04 LTS,Cloud Infrastructure Services,27f97212-4eb6-4659-91f1-a538884bbbad,us-east4,-2.3134439999999996
+GCP CIS (Center for Internet Security) CIS Ubuntu Linux 18.04 LTS Benchmark - Level 1,CIS (Center for Internet Security),migration-credit-9-1641310458578r,us-central1,-2.719928
+GCP CIS (Center for Internet Security) CIS Red Hat Enterprise Linux 8 Benchmark - Level 1,CIS (Center for Internet Security),migration-credit-9-1641310458578r,us-central1,-3.39991
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,migration-credit-20-1640299006916r,us-east1,-5.688905
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,migration-credit-20-1640299006916r,europe-west1,-5.701503999999999
+GCP CIS (Center for Internet Security) CIS NGINX on CentOS Linux 7 Benchmark - Level 1 - Webserver,CIS (Center for Internet Security),7f80c1b2-bf82-4050-8aa6-1f660605780b,us-east4,-7.0488029999999995
+GCP CIS (Center for Internet Security) CIS NGINX on CentOS Linux 7 Benchmark - Level 1 - Webserver,CIS (Center for Internet Security),7f80c1b2-bf82-4050-8aa6-1f660605780b,us-east1,-7.125139
+GCP Cloud Infrastructure Services Terraform on Ubuntu 18.04 LTS,Cloud Infrastructure Services,7f80c1b2-bf82-4050-8aa6-1f660605780b,us-east4,-7.916840000000001
+GCP Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 500Mbps,Fortinet Inc.,migration-credit-20-1640299006916r,us-west1,-9.4815
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,migration-credit-21-1640299006916r,europe-west1,-13.962005000000003
+"GCP NGINX, Inc NGINX Plus Enterprise - RHEL 8","NGINX, Inc",27f97212-4eb6-4659-91f1-a538884bbbad,us-west2,-15.731545999999994
+GCP Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 1Gbps,Fortinet Inc.,migration-credit-20-1640299006916r,us-west1,-15.802499
+GCP Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 1Gbps,Fortinet Inc.,migration-credit-20-1640299006916r,australia-southeast2,-15.802499
+GCP Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 1Gbps,Fortinet Inc.,migration-credit-20-1640299006916r,us-west4,-15.802499000000001
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,migration-credit-20-1640299006916r,us-east5,-16.118552999999995
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,migration-credit-20-1640299006916r,asia-south2,-16.118552999999995
+GCP Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 5Gbps,Fortinet Inc.,migration-credit-20-1640299006916r,us-west1,-22.123503
+GCP Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 5Gbps,Fortinet Inc.,migration-credit-20-1640299006916r,australia-southeast2,-22.12350399999999
+GCP Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 500Mbps,Fortinet Inc.,migration-credit-21-1640299006916r,us-west1,-23.269992999999992
+GCP Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 500Mbps,Fortinet Inc.,migration-credit-21-1640299006916r,asia-east1,-23.269992999999992
+"GCP NGINX, Inc NGINX Plus Enterprise - RHEL 8","NGINX, Inc",27f97212-4eb6-4659-91f1-a538884bbbad,us-east4,-23.597320999999994
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,migration-credit-20-1640299006916r,europe-north1,-27.496359999999996
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (Bundle1)","Palo Alto Networks, Inc.",07a4343f-d10c-48dc-911f-05ca9ae02a01,us-west1,-28.38263999999999
+GCP Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 10Gbps,Fortinet Inc.,migration-credit-20-1640299006916r,europe-west3,-30.02475799999999
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (Bundle2)","Palo Alto Networks, Inc.",migration-credit-9-1641310458578r,us-central1,-31.279991
+"GCP Palo Alto Networks, Inc. VM-Series Next-Generation Firewall (Bundle2)","Palo Alto Networks, Inc.",migration-credit-9-1641310458578r,us-west4,-31.279991000000003
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,migration-credit-20-1640299006916r,asia-southeast1,-32.001333
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,migration-credit-20-1640299006916r,asia-southeast2,-32.237111999999996
+GCP Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 1Gbps,Fortinet Inc.,migration-credit-21-1640299006916r,us-west4,-38.78332
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,migration-credit-21-1640299006916r,asia-southeast2,-39.55899599999999
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,migration-credit-21-1640299006916r,asia-south1,-39.55899599999999
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,migration-credit-21-1640299006916r,us-east5,-39.55899699999999
+"GCP NGINX, Inc NGINX Plus Enterprise - RHEL 8","NGINX, Inc",7f80c1b2-bf82-4050-8aa6-1f660605780b,us-west2,-53.834986
+GCP Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 5Gbps,Fortinet Inc.,migration-credit-21-1640299006916r,us-west1,-54.296657999999994
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,migration-credit-21-1640299006916r,us-east4,-62.05332500000003
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,migration-credit-21-1640299006916r,europe-north1,-67.483003
+GCP Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 10Gbps,Fortinet Inc.,migration-credit-21-1640299006916r,us-west1,-73.688329
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,migration-credit-21-1640299006916r,us-east1,-76.01532900000002
+GCP Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 1Gbps,Fortinet Inc.,migration-credit-21-1640299006916r,us-west1,-77.56664
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,migration-credit-21-1640299006916r,asia-southeast1,-78.51750999999999
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,migration-credit-20-1640299006916r,us-west2,-80.59279099999999
+"GCP NGINX, Inc NGINX Plus Enterprise - RHEL 8","NGINX, Inc",7f80c1b2-bf82-4050-8aa6-1f660605780b,us-east4,-80.75246999999999
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,migration-credit-20-1640299006916r,us-west1,-94.49897299999998
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,migration-credit-21-1640299006916r,us-west2,-299.40736799999996
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,migration-credit-21-1640299006916r,us-west1,-311.04230399999994
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,migration-credit-20-1640299006916r,us-central1,-401.38161
+GCP Fortinet Inc. FortiGate Next-Generation Firewall (PAYG),fortigcp-project-001,migration-credit-21-1640299006916r,us-central1,-1074.190183
